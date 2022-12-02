@@ -1,3 +1,3 @@
-[master 2c5fcf0] my shell permissions
- 1 file changed, 2 insertions(+)
- create mode 100644 0x01-shell_permissions/0-iam_betty
+[master f2ca72a] whoami
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+ create mode 100755 0x01-shell_permissions/1-who_am_i
